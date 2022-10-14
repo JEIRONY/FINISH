@@ -92,7 +92,7 @@ global.dorre = 'DORRAT-BOT-MD'
 global.DORRA = dorre
 
 //Imagenes___________________
-global.imagen1 = fs.readFileSync('./Menu2.jpg')
+global.imagen1 = fs.readFileSync('./Menu2.png')
 global.imagen2 = fs.readFileSync('./galeria/nuevobot.jpg') 
 global.imagen3 = fs.readFileSync('./galeria/Pre Bot Publi.png')
 global.imagen4 = fs.readFileSync('./galeria/menudorrat3.jpg')
